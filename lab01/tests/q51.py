@@ -1,3 +1,3 @@
 test = {   'name': 'q51',
-    'points': None,
-    'suites': [{'cases': [{'code': '>>> round(genghis_distance_from_average_in, 3)\n1.5', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
+    'points': 1,
+    'suites': [{'cases': [{'code': '>>> round(paola_distance_from_average_m, 5) == 0.072\nTrue', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
